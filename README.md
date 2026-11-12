@@ -1,0 +1,1 @@
+This repository contains the data and code associated with the research paper entitled “Predicting Corporate Environmental Rating Changes via Satellite-Derived Gaseous Pollutants: Machine Learning Evidence from Chinese Listed Companies”
